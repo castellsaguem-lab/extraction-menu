@@ -5,7 +5,7 @@ displayTest="IGNORE_ALL_VERSION"
 
 [[mods]]
 modId="extractionmenu"
-version="1.2.0"
+version="1.2.1"
 displayName="Extraction Menu"
 description='''Custom main menu for the Extraction modpack.'''
 
