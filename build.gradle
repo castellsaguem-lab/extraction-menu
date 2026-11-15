@@ -3,11 +3,11 @@ plugins {
     id 'net.minecraftforge.gradle' version '[6.0,6.2)'
 }
 
-version = '1.2.1'
-group = 'com.extraction.menu'
+version = '1.2.0'
+group = 'com.extraction.jamalert'
 
 base {
-    archivesName = 'extraction-menu'
+    archivesName = 'jam-alert'
 }
 
 java {
@@ -22,7 +22,7 @@ minecraft {
             workingDirectory project.file('run')
             property 'forge.logging.console.level', 'debug'
             mods {
-                extractionmenu {
+                jamalert {
                     source sourceSets.main
                 }
             }
@@ -37,7 +37,7 @@ dependencies {
 tasks.named('jar', Jar).configure {
     manifest {
         attributes([
-            'Specification-Title'     : 'extractionmenu',
+            'Specification-Title'     : 'jamalert',
             'Specification-Vendor'    : 'Extraction',
             'Specification-Version'   : '1',
             'Implementation-Title'    : project.name,

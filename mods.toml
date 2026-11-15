@@ -4,19 +4,19 @@ license="All Rights Reserved"
 displayTest="IGNORE_ALL_VERSION"
 
 [[mods]]
-modId="extractionmenu"
-version="1.2.1"
-displayName="Extraction Menu"
-description='''Custom main menu for the Extraction modpack.'''
+modId="jamalert"
+version="1.2.0"
+displayName="Jam Alert"
+description='''Shows an alert when a TACZ weapon jams (Gun Durability).'''
 
-[[dependencies.extractionmenu]]
+[[dependencies.jamalert]]
     modId="forge"
     mandatory=true
     versionRange="[47,)"
     ordering="NONE"
     side="CLIENT"
 
-[[dependencies.extractionmenu]]
+[[dependencies.jamalert]]
     modId="minecraft"
     mandatory=true
     versionRange="[1.20.1,1.21)"
