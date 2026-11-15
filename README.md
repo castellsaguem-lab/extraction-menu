@@ -1,7 +1,7 @@
 # Extraction Menu (Forge 1.20.1, client-side)
 
 Menu principal personalizado: fondos que cambian solos con fundido (parallax con el raton),
-logo + "Version 1.2.0", menu de texto estilo Ready or Not y musica aleatoria (song1-3).
+logo + "Version 1.2.0" y menu de texto estilo Ready or Not.
 
 ## Fondos
 - Los que van DENTRO del jar: `src/main/resources/assets/extractionmenu/backgrounds/`
@@ -12,8 +12,7 @@ logo + "Version 1.2.0", menu de texto estilo Ready or Not y musica aleatoria (so
 - Cada 15 s pasa a otro fondo distinto con un fundido (HOLD_MS / FADE_MS en BackgroundManager.java).
 
 ## Musica
-`song1.ogg`, `song2.ogg`, `song3.ogg` en `src/main/resources/assets/extractionmenu/sounds/`
-(OGG Vorbis). Suena solo en el menu y respeta el volumen de "Musica" de las opciones.
+Este mod NO añade ni toca la musica del menu: eso lo hacen los mods de musica del pack (Project Pneuma, el mod de OST...).
 
 ## Compilar con GitHub (sin instalar nada)
 1. Sube el CONTENIDO de esta carpeta (incluida `.github`).
