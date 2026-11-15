@@ -1,0 +1,3 @@
+Put fondo1.gif, fondo2.gif, fondo3.gif and fondo4.gif in this folder.
+fondo5.png and fondo6.png are already here.
+Missing files are simply skipped.

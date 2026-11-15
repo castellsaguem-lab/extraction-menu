@@ -1,0 +1,5 @@
+{
+  "menu_song1": { "category": "music", "sounds": [ { "name": "extractionmenu:song1", "stream": true } ] },
+  "menu_song2": { "category": "music", "sounds": [ { "name": "extractionmenu:song2", "stream": true } ] },
+  "menu_song3": { "category": "music", "sounds": [ { "name": "extractionmenu:song3", "stream": true } ] }
+}
