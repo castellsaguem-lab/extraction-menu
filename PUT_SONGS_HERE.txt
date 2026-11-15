@@ -1,0 +1,2 @@
+Put song1.ogg, song2.ogg and song3.ogg in this folder (OGG Vorbis only).
+Missing files are simply skipped.

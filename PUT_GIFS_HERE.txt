@@ -1,0 +1,2 @@
+Aqui van los fondos ligeros que se empaquetan en el jar (.gif o .png, cualquier nombre).
+Los GIF pesados: ponlos en <carpeta del juego>/extractionmenu/backgrounds/ (no hace falta compilar).
